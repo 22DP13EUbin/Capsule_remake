@@ -1,4 +1,4 @@
-# Capsule_remake
+## Capsule_remake (tikai registrācija)
 
 # Capsule - Platforma laika kapsulu izveidei un glabāšanai  
 
